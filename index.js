@@ -29,7 +29,7 @@ client.on('message', msg => {
 
 client.on('message', msg1 => {
   if (msg1.content == '.ip') {
-    msg1.channel.send("Voici l'ip du magnifique serveur **AstraRP** : `play.astrarp.fr``")
+    msg1.channel.send("Voici l'ip du magnifique serveur **AstraRP** : `play.astrarp.fr`")
   //IP du serveur
   }
 
