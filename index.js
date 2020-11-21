@@ -143,7 +143,7 @@ client.on('message', message => {
 
 
 
-client.login("NzEzMDczNTg1NzMxNzk3MDQ1.Xsa5mw.m6UKyrupZ4w9CL2AKVRcxCH298g");
+client.login("TOKEN DU BOT");
 /////////////////////////////////////////////////////
 // FONCTION (A NE PAS MODIFIER)
 /////////////////////////////////////////////////////
