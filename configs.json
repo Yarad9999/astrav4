@@ -1,8 +1,8 @@
 {
     "activityType": "PLAYING",
-    "token": "NzE5MTc2MTk2OTA2MTU2MDMy.XtzneQ.JnVgRYZx50VaEFCE8Fz_EKNlqgY",
+    "token": "TOKEN",
     "serverInfo": [
-        "185.163.126.61",
-        30120
+        "IP DU SERVEUR",
+        PORT DU SERVEUR
     ]
 }
